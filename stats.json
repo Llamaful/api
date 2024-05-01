@@ -1,3 +1,4 @@
 {
-  "party_mode": true
+  "party_mode": true,
+  "delay": 15,
 }
